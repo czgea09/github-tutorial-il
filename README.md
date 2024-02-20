@@ -8,4 +8,4 @@
 ##2. tech stack
 ### - html
 ### - css
-### - javascripthttps://github.com/czgea09/github-tutorial-il/blob/main/README.md
+### - javascript
